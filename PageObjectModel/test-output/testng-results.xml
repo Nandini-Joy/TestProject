@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="27" passed="27" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-21T19:39:50 IST" name="Default suite" finished-at="2024-05-21T19:41:50 IST" duration-ms="119779">
+    <groups>
+    </groups>
+    <test started-at="2024-05-21T19:39:50 IST" name="Default test" finished-at="2024-05-21T19:41:50 IST" duration-ms="119779">
+      <class name="ProjectTestScenarios.TestMethods">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:39:50 IST" name="beforetest" finished-at="2024-05-21T19:39:59 IST" duration-ms="8243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="Account()[pri:1, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:39:59 IST" name="Account" finished-at="2024-05-21T19:40:01 IST" duration-ms="2675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Account -->
+        <test-method signature="FillAccountDetails()[pri:2, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:01 IST" name="FillAccountDetails" finished-at="2024-05-21T19:40:05 IST" duration-ms="3375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillAccountDetails -->
+        <test-method signature="WhatsNew()[pri:3, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:05 IST" name="WhatsNew" finished-at="2024-05-21T19:40:06 IST" duration-ms="1320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhatsNew -->
+        <test-method signature="Hoodies()[pri:4, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:06 IST" name="Hoodies" finished-at="2024-05-21T19:40:08 IST" duration-ms="1639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hoodies -->
+        <test-method signature="ClickPic()[pri:5, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:08 IST" name="ClickPic" finished-at="2024-05-21T19:40:12 IST" duration-ms="4703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickPic -->
+        <test-method signature="SeSize()[pri:6, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:12 IST" name="SeSize" finished-at="2024-05-21T19:40:13 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeSize -->
+        <test-method signature="SeColor()[pri:7, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:13 IST" name="SeColor" finished-at="2024-05-21T19:40:13 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeColor -->
+        <test-method signature="AddCart()[pri:8, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:13 IST" name="AddCart" finished-at="2024-05-21T19:40:13 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCart -->
+        <test-method signature="ClickMoreInfo()[pri:9, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:13 IST" name="ClickMoreInfo" finished-at="2024-05-21T19:40:13 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickMoreInfo -->
+        <test-method signature="GoHome()[pri:10, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:13 IST" name="GoHome" finished-at="2024-05-21T19:40:17 IST" duration-ms="3594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoHome -->
+        <test-method signature="search()[pri:11, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:17 IST" name="search" finished-at="2024-05-21T19:40:22 IST" duration-ms="4920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="Sort()[pri:12, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:22 IST" name="Sort" finished-at="2024-05-21T19:40:26 IST" duration-ms="4142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sort -->
+        <test-method signature="ShowDrop()[pri:13, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:26 IST" name="ShowDrop" finished-at="2024-05-21T19:40:31 IST" duration-ms="4684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShowDrop -->
+        <test-method signature="CartClick()[pri:14, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:31 IST" name="CartClick" finished-at="2024-05-21T19:40:31 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartClick -->
+        <test-method signature="AcrendingOrder()[pri:15, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:31 IST" name="AcrendingOrder" finished-at="2024-05-21T19:40:32 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AcrendingOrder -->
+        <test-method signature="ClickShort()[pri:16, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:32 IST" name="ClickShort" finished-at="2024-05-21T19:40:42 IST" duration-ms="10054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickShort -->
+        <test-method signature="ItemGrid()[pri:17, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:42 IST" name="ItemGrid" finished-at="2024-05-21T19:40:44 IST" duration-ms="2130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ItemGrid -->
+        <test-method signature="CategoryCl()[pri:18, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:44 IST" name="CategoryCl" finished-at="2024-05-21T19:40:54 IST" duration-ms="10044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CategoryCl -->
+        <test-method signature="Sale()[pri:19, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:40:54 IST" name="Sale" finished-at="2024-05-21T19:41:00 IST" duration-ms="5956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sale -->
+        <test-method signature="Stle()[pri:20, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:00 IST" name="Stle" finished-at="2024-05-21T19:41:10 IST" duration-ms="10017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stle -->
+        <test-method signature="Luggage()[pri:21, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:10 IST" name="Luggage" finished-at="2024-05-21T19:41:20 IST" duration-ms="10067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Luggage -->
+        <test-method signature="ForwardArrow()[pri:22, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:20 IST" name="ForwardArrow" finished-at="2024-05-21T19:41:24 IST" duration-ms="4011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForwardArrow -->
+        <test-method signature="BackwardArrow()[pri:23, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:24 IST" name="BackwardArrow" finished-at="2024-05-21T19:41:34 IST" duration-ms="10069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackwardArrow -->
+        <test-method signature="clickBagging()[pri:24, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:34 IST" name="clickBagging" finished-at="2024-05-21T19:41:44 IST" duration-ms="10008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBagging -->
+        <test-method signature="HomepageafteraddingItemtoCart()[pri:25, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:44 IST" name="HomepageafteraddingItemtoCart" finished-at="2024-05-21T19:41:46 IST" duration-ms="1850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageafteraddingItemtoCart -->
+        <test-method signature="Signin()[pri:26, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:46 IST" name="Signin" finished-at="2024-05-21T19:41:50 IST" duration-ms="3620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method signature="login()[pri:27, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:50 IST" name="login" finished-at="2024-05-21T19:41:50 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:ProjectTestScenarios.TestMethods@79e4c792]" started-at="2024-05-21T19:41:50 IST" name="aftertest" finished-at="2024-05-21T19:41:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- ProjectTestScenarios.TestMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
